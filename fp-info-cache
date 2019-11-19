@@ -1,372 +1,197 @@
-82851027662317
-Converter_DCDC
-Converter_DCDC_Artesyn_ATA_SMD
-DCDC-Converter, Artesyn, ATA Series, 3W Single and Dual Output, 1500VDC Isolation, 24.0x13.7x8.0mm https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf https://www.artesyn.com/power/assets/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf
-DCDC SMD
+43832599665871
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 19963 pitch 3.5mm size 7.7x7mm^2 drill 1.2mm pad 2.4mm
+0
+2
+2
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10693, vertical (cable from top), 2 pins, pitch 3.5mm, size 8x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10693.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10693 vertical pitch 3.5mm size 8x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 20193, 3 pins, pitch 3.5mm, size 11.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/20193.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 20193 pitch 3.5mm size 11.2x7mm^2 drill 1.2mm pad 2.4mm
+0
+3
+3
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x03_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10694, vertical (cable from top), 3 pins, pitch 3.5mm, size 11.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10694.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10694 vertical pitch 3.5mm size 11.5x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 20001, 4 pins, pitch 3.5mm, size 14.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/20001.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 20001 pitch 3.5mm size 14.7x7mm^2 drill 1.2mm pad 2.4mm
+0
+4
+4
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x04_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10695, vertical (cable from top), 4 pins, pitch 3.5mm, size 15x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10695.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10695 vertical pitch 3.5mm size 15x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x05_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 20223, 5 pins, pitch 3.5mm, size 18.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/20223.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 20223 pitch 3.5mm size 18.2x7mm^2 drill 1.2mm pad 2.4mm
+0
+5
+5
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x05_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10696, vertical (cable from top), 5 pins, pitch 3.5mm, size 18.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10696.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10696 vertical pitch 3.5mm size 18.5x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x06_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 19964, 6 pins, pitch 3.5mm, size 21.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19964.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 19964 pitch 3.5mm size 21.7x7mm^2 drill 1.2mm pad 2.4mm
+0
+6
+6
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x06_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10697, vertical (cable from top), 6 pins, pitch 3.5mm, size 22x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10697.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10697 vertical pitch 3.5mm size 22x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x07_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10684, 7 pins, pitch 3.5mm, size 25.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10684.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10684 pitch 3.5mm size 25.2x7mm^2 drill 1.2mm pad 2.4mm
 0
 7
 7
-Converter_DCDC
-Converter_DCDC_Bothhand_CFUDxxxx_THT
-DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand), 
-DCDC-Converter BOTHHAND Type CFxxxx-Serie
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x07_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10698, vertical (cable from top), 7 pins, pitch 3.5mm, size 25.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10698.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10698 vertical pitch 3.5mm size 25.5x8.3mm^2 drill 1.3mm pad 2.6mm
 0
-10
-10
-Converter_DCDC
-Converter_DCDC_Bothhand_CFUSxxxxEH_THT
-DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand), 
-DCDC-Converter BOTHHAND Type CFxxxx-Serie
+7
+7
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x08_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 19965, 8 pins, pitch 3.5mm, size 28.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19965.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 19965 pitch 3.5mm size 28.7x7mm^2 drill 1.2mm pad 2.4mm
+0
+8
+8
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x08_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10699, vertical (cable from top), 8 pins, pitch 3.5mm, size 29x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10699.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10699 vertical pitch 3.5mm size 29x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x09_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10686, 9 pins, pitch 3.5mm, size 32.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10686.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10686 pitch 3.5mm size 32.2x7mm^2 drill 1.2mm pad 2.4mm
 0
 9
 9
-Converter_DCDC
-Converter_DCDC_Bothhand_CFUSxxxx_THT
-DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand), 
-DCDC-Converter BOTHHAND Type CFxxxx-Serie
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x09_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10700, vertical (cable from top), 9 pins, pitch 3.5mm, size 32.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10700.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10700 vertical pitch 3.5mm size 32.5x8.3mm^2 drill 1.3mm pad 2.6mm
 0
-8
-8
-Converter_DCDC
-Converter_DCDC_Cincon_EC5BExx_Dual_THT
-DCDC-Converter, CINCON, EC5BExx, 18-36VDC to Dual output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/B%20CASE/SPEC-EC5BE-V24.pdf
-DCDC-Converter CINCON EC5BExx 18-36VDC to Dual output
+9
+9
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x10_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10687, 10 pins, pitch 3.5mm, size 35.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10687.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10687 pitch 3.5mm size 35.7x7mm^2 drill 1.2mm pad 2.4mm
 0
-6
-6
-Converter_DCDC
-Converter_DCDC_Cincon_EC5BExx_Single_THT
-DCDC-Converter, CINCON, EC5BExx, 18-36VDC to dual output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/B%20CASE/SPEC-EC5BE-V24.pdf
-DCDC-Converter CINCON EC5BExx 18-36VDC to dual output
+10
+10
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x10_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10701, vertical (cable from top), 10 pins, pitch 3.5mm, size 36x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10701.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10701 vertical pitch 3.5mm size 36x8.3mm^2 drill 1.3mm pad 2.6mm
 0
-4
-4
-Converter_DCDC
-Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT
-DCDC-Converter, CINCON, EC6Cxx, dual or tripple output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf
-DCDC-Converter CINCON EC6Cxx dual or tripple output
-0
-7
-7
-Converter_DCDC
-Converter_DCDC_Cincon_EC6Cxx_Single_THT
-DCDC-Converter, CINCON, EC6Cxx, single output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf
-DCDC-Converter CINCON EC6Cxx single output
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_MeanWell_NID30_THT
-Meanwell DCDC non-isolated converter SIP module, http://www.meanwell.com/webapp/product/search.aspx?prod=nid30
-DCDC non-isolated converter 
+10
+10
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x11_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10688, 11 pins, pitch 3.5mm, size 39.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10688.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10688 pitch 3.5mm size 39.2x7mm^2 drill 1.2mm pad 2.4mm
 0
 11
 11
-Converter_DCDC
-Converter_DCDC_MeanWell_NID60_THT
-MeanWell NID60, http://www.meanwell.com/Upload/PDF/NID60/NID60-SPEC.PDF
-MeanWell NID60
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x11_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10702, vertical (cable from top), 11 pins, pitch 3.5mm, size 39.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10702.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10702 vertical pitch 3.5mm size 39.5x8.3mm^2 drill 1.3mm pad 2.6mm
 0
 11
 11
-Converter_DCDC
-Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT
-Murata MGJ2DxxxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 2W, SIP package style, https://power.murata.com/data/power/ncl/kdc_mgj2.pdf
-Murata MGJ2DxxxxxxSC
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_Murata_MGJ3
-Murata MGJ3, 5.2kVDC Isolated 3W Gate Drive, 15V/5V/5V Configurable, 22.61x23.11x14.19mm, https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj3.pdf
-DCDC SMD
-0
-7
-7
-Converter_DCDC
-Converter_DCDC_Murata_NCS1SxxxxSC_THT
-Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf (Script generated with StandardBox.py) (Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf)
-Murata NCS1SxxxxSC
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_RECOM_R-78B-2.0_THT
-DCDC-Converter, RECOM, RECOM_R-78B-2.0, SIP-3, pitch 2.54mm, package size 11.5x8.5x17.5mm^3, https://www.recom-power.com/pdf/Innoline/R-78Bxx-2.0.pdf
-dc-dc recom buck sip-3 pitch 2.54mm
-0
-3
-3
-Converter_DCDC
-Converter_DCDC_RECOM_R-78E-0.5_THT
-DCDC-Converter, RECOM, RECOM_R-78E-0.5, SIP-3, pitch 2.54mm, package size 11.6x8.5x10.4mm^3, https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
-dc-dc recom buck sip-3 pitch 2.54mm
-0
-3
-3
-Converter_DCDC
-Converter_DCDC_RECOM_R-78HB-0.5L_THT
-DCDC-Converter, RECOM, RECOM_R-78HB-0.5L, SIP-3, Horizontally Mounted, pitch 2.54mm, package size 11.5x8.5x17.5mm^3, https://www.recom-power.com/pdf/Innoline/R-78HBxx-0.5_L.pdf
-dc-dc recom buck sip-3 pitch 2.54mm
-0
-3
-3
-Converter_DCDC
-Converter_DCDC_RECOM_R-78HB-0.5_THT
-DCDC-Converter, RECOM, RECOM_R-78HB-0.5, SIP-3, pitch 2.54mm, package size 11.5x8.5x17.5mm^3, https://www.recom-power.com/pdf/Innoline/R-78HBxx-0.5_L.pdf
-dc-dc recom buck sip-3 pitch 2.54mm
-0
-3
-3
-Converter_DCDC
-Converter_DCDC_RECOM_R-78S-0.1_THT
-DCDC-Converter, RECOM, RECOM_R-78S-0.1, SIP-4, pitch 2.54mm, package size 11.6x8.5x10.4mm^3, https://www.recom-power.com/pdf/Innoline/R-78Sxx-0.1.pdf
-dc-dc recom buck sip-4 pitch 2.54mm
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_RECOM_R5xxxDA_THT
-DCDC-Converter, RECOM, RECOM_R5xxxDA, SIP-12, Horizontally Mounted, pitch 2.54mm, package size 32.2x9.1x15mm^3, https://www.recom-power.com/pdf/Innoline/R-5xxxPA_DA.pdf
-dc-dc recom buck sip-12 pitch 2.54mm
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x12_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10689, 12 pins, pitch 3.5mm, size 42.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10689.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10689 pitch 3.5mm size 42.7x7mm^2 drill 1.2mm pad 2.4mm
 0
 12
 12
-Converter_DCDC
-Converter_DCDC_RECOM_R5xxxPA_THT
-DCDC-Converter, RECOM, RECOM_R5xxxPA, SIP-12, pitch 2.54mm, package size 32.2x9.1x15mm^3, https://www.recom-power.com/pdf/Innoline/R-5xxxPA_DA.pdf
-dc-dc recom buck sip-12 pitch 2.54mm
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x12_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10703, vertical (cable from top), 12 pins, pitch 3.5mm, size 43x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10703.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10703 vertical pitch 3.5mm size 43x8.3mm^2 drill 1.3mm pad 2.6mm
 0
 12
 12
-Converter_DCDC
-Converter_DCDC_RECOM_RPMx.x-x.0
-https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf
-dc-dc recom buck lga-25 pitch 2.29mm
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x13_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10690, 13 pins, pitch 3.5mm, size 46.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10690.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10690 pitch 3.5mm size 46.2x7mm^2 drill 1.2mm pad 2.4mm
 0
-25
-25
-Converter_DCDC
-Converter_DCDC_TRACO_TEN10-xxxx_Dual_THT
-DCDC-Converter, TRACO, TEN10-xxxx, single output, https://assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf
-DCDC-Converter TRACO TEN10-xxxx single output
+13
+13
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x13_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10704, vertical (cable from top), 13 pins, pitch 3.5mm, size 46.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10704.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10704 vertical pitch 3.5mm size 46.5x8.3mm^2 drill 1.3mm pad 2.6mm
 0
-5
-5
-Converter_DCDC
-Converter_DCDC_TRACO_TEN10-xxxx_Single_THT
-DCDC-Converter, TRACO, TEN10-xxxx, single output, https://assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf
-DCDC-Converter TRACO TEN10-xxxx single output
+13
+13
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x14_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10691, 14 pins, pitch 3.5mm, size 49.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10691.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10691 pitch 3.5mm size 49.7x7mm^2 drill 1.2mm pad 2.4mm
 0
-4
-4
-Converter_DCDC
-Converter_DCDC_TRACO_TEN10-xxxx_THT
-DCDC-Converter, TRACO, TEN10-xxxx, https://assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf
-DCDC-Converter TRACO TEN10-xxxx
+14
+14
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x14_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10705, vertical (cable from top), 14 pins, pitch 3.5mm, size 50x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10705.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10705 vertical pitch 3.5mm size 50x8.3mm^2 drill 1.3mm pad 2.6mm
 0
-4
-4
-Converter_DCDC
-Converter_DCDC_TRACO_TEN20-xxxx-N4_THT
-DCDC-Converter TRACO TEN20 Generic, https://assets.tracopower.com/20171102100522/TEN20/documents/ten20-datasheet.pdf
-DCDC-Converter TRACO TEN20 Generic
+14
+14
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x15_P3.50mm_Horizontal
+Terminal Block 4Ucon ItemNo. 10692, 15 pins, pitch 3.5mm, size 53.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10692.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10692 pitch 3.5mm size 53.2x7mm^2 drill 1.2mm pad 2.4mm
 0
-5
-5
-Converter_DCDC
-Converter_DCDC_TRACO_TEN20-xxxx_THT
-DCDC-Converter TRACO TEN20 Generic, https://assets.tracopower.com/20171102100522/TEN20/documents/ten20-datasheet.pdf
-DCDC-Converter TRACO TEN20 Generic
+15
+15
+TerminalBlock_4Ucon
+TerminalBlock_4Ucon_1x15_P3.50mm_Vertical
+Terminal Block 4Ucon ItemNo. 10706, vertical (cable from top), 15 pins, pitch 3.5mm, size 53.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10706.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 10706 vertical pitch 3.5mm size 53.5x8.3mm^2 drill 1.3mm pad 2.6mm
 0
-6
-6
-Converter_DCDC
-Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
-DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016
-DCDC-Converter TRACO TMR1-xxxx Dual_output
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT
-DCDC-Converter, TRACO, TMR 1-xxxx, Single output, Rev. March 21.2016
-DCDC-Converter TRACO TMR1-xxxx Single_output
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_TRACO_TMR-1SM_SMD
-http://assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf
-DCDC SMD TRACO TMR-1SM
-0
-7
-7
-Converter_DCDC
-Converter_DCDC_TRACO_TMR-2xxxxWI_THT
-https://www.tracopower.com/products/tmr2wi.pdf
-DCDC-Converter TRACO TMRxxxxWI Single/Dual_output
-0
-7
-7
-Converter_DCDC
-Converter_DCDC_TRACO_TMR-xxxx_THT
-DCDC-Converter, TRACO, TMR xxxx, Single/Dual output, http://www.datasheetlib.com/datasheet/135136/tmr-2-2410e_traco-power.html?page=3#datasheet
-DCDC-Converter TRACO TMRxxxx Single/Dual_output
-0
-7
-7
-Converter_DCDC
-Converter_DCDC_TRACO_TSR-1_THT
-DCDC-Converter, TRACO, TSR 1-xxxx
-DCDC-Converter TRACO TSR-1
-0
-3
-3
-Converter_DCDC
-Converter_DCDC_XP_POWER-IA48xxD_THT
-XP_POWER  IA48xxD, DIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator
-XP_POWER  IA48xxD DIP DCDC-Converter
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_XP_POWER-IA48xxS_THT
-XP_POWER  IA48xxS, SIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator
-XP_POWER  IA48xxS SIP DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_XP_POWER-IAxxxxD_THT
-XP_POWER  IAxxxxD, DIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator
-XP_POWER  IAxxxxD DIP DCDC-Converter
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_XP_POWER-IAxxxxS_THT
-XP_POWER  IAxxxxS, SIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator
-XP_POWER  IAxxxxS SIP DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_XP_POWER-IHxxxxDH_THT
-XP_POWER  IHxxxxDH, DIP, (https://www.xppower.com/pdfs/SF_IH.pdf), generated with kicad-footprint-generator
-XP_POWER  IHxxxxDH DIP DCDC-Converter
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_XP_POWER-IHxxxxD_THT
-XP_POWER  IHxxxxD, DIP, (https://www.xppower.com/pdfs/SF_IH.pdf), generated with kicad-footprint-generator
-XP_POWER  IHxxxxD DIP DCDC-Converter
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_XP_POWER-IHxxxxSH_THT
-XP_POWER  IHxxxxSH, SIP, (https://www.xppower.com/pdfs/SF_IH.pdf), generated with kicad-footprint-generator
-XP_POWER  IHxxxxSH SIP DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_XP_POWER-IHxxxxS_THT
-XP_POWER  IHxxxxS, SIP, (https://www.xppower.com/pdfs/SF_IH.pdf), generated with kicad-footprint-generator
-XP_POWER  IHxxxxS SIP DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_XP_POWER-ISU02_SMD
-DCDC-Converter, XP POWER, ISU02 Series, 2W Single and Dual Output, 1500VDC Isolation, 19.0x17.0x8.7mm https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
-DCDC SMD XP POWER ISU02
-0
-7
-7
-Converter_DCDC
-Converter_DCDC_XP_POWER-ITQxxxxS-H_THT
-XP_POWER  ITQxxxxS-H, SIP, (https://www.xppower.com/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator
-XP_POWER  ITQxxxxS-H SIP DCDC-Converter
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_XP_POWER-ITXxxxxSA_THT
-XP_POWER  ITXxxxxSA, SIP, (https://www.xppower.com/pdfs/SF_ITX.pdf), generated with kicad-footprint-generator
-XP_POWER  ITXxxxxSA SIP DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_XP_POWER-ITxxxxxS_THT
-XP_POWER  ITxxxxxS, SIP, (https://www.xppower.com/pdfs/SF_ITX.pdf https://www.xppower.com/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator
-XP_POWER  ITxxxxxS SIP DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_XP_POWER_JTExxxxDxx_THT
-DCDC-Converter, XP POWER, Type JTE06 Series,  Dual Output
-DCDC-Converter XP_POWER JTE06 Dual
-0
-8
-8
-Converter_DCDC
-Converter_DCDC_muRata_CRE1xxxxxx3C_THT
-Isolated 1W single output DC/DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
-Isolated 1W single output DC/DC
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_muRata_CRE1xxxxxxDC_THT
-Isloated DC-DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
-Isloated DC-DC
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_muRata_CRE1xxxxxxSC_THT
-http://power.murata.com/data/power/ncl/kdc_cre1.pdf
-murata dc-dc transformer
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_muRata_NMAxxxxDC_THT
-Isolated 1W DCDC-Converter, http://power.murata.com/data/power/ncl/kdc_nma.pdf
-Isolated 1W DCDC-Converter
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_muRata_NMAxxxxSC_THT
-muRata NMAxxxxSC footprint based on SIP7, http://power.murata.com/data/power/ncl/kdc_nma.pdf
-muRata NMAxxxxSC DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_muRata_NXE2SxxxxMC_THT
-Isolated 2W Single Output SM DC/DC Converters, http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
-Isolated 2W Single Output SM DC/DC Converters
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_muRata_OKI-78SR_Horizontal
-https://power.murata.com/data/power/oki-78sr.pdf
-78sr3.3 78sr5 78sr9 78sr12 78srXX
-0
-3
-3
-Converter_DCDC
-Converter_DCDC_muRata_OKI-78SR_Vertical
-https://power.murata.com/data/power/oki-78sr.pdf
-78sr3.3 78sr5 78sr9 78sr12 78srXX
-0
-3
-3
+15
+15
